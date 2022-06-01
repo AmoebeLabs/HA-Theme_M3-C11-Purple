@@ -3,7 +3,7 @@
 [![release][release-badge]][release-url]
 ![downloads][downloads-badge]
 
-# Material 3 Theme for Home Asistant: Template <!--- #07, Dark Olive Green -->
+# Material 3 Theme for Home Asistant: C11, Purple
 
 ## What is it
 A Material 3 based extended Dark & Light theme for Home Assistant.
@@ -20,6 +20,9 @@ All these colors have been desaturated a bit and given more brightness to have a
 The theme also defines some Neumorphic shadow colors for dark and light mode.
 
 For beta documentation: see https://ha-m3-themes.docs.amoebelabs.com/
+
+For more theme examples, check [the overview of all the 22 examples][ham3-docs-examples-url]
+<br>And to implement them in your cards: look at [how to use these Material 3 themes in a Home Assistant card][ham3-docs-howtouse-url]
 
 ## Installation via HACS
 This Theme is in the default theme repository of HACS
@@ -38,22 +41,22 @@ The theme will be automatically available once you have reloaded the themes usin
 ## Theme Preview:
 Below the definition of the theme, generated and displayed using the [Swiss Army Knife custom card for Home Assistant][sak-docs-url] (NYR).
 
-![m3-07-palettes](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-palettes.png)
+![m3-c11-palettes](https://github.com/AmoebeLabs/ha-theme_m3-c11-purple/blob/master/preview/m3-theme-c11-palettes.png)
 
-![m3-07-surfaces](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-surfaces.png)
+![m3-c11-surfaces](https://github.com/AmoebeLabs/ha-theme_m3-c11-purple/blob/master/preview/m3-theme-c11-surfaces.png)
 
-![m3-07-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-light.png)
+![m3-c11-light](https://github.com/AmoebeLabs/ha-theme_m3-c11-purple/blob/master/preview/m3-theme-c11-light.png)
 
-![m3-07-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/preview/m3-theme-07-dark.png)
+![m3-c11-dark](https://github.com/AmoebeLabs/ha-theme_m3-c11-purple/blob/master/preview/m3-theme-c11-dark.png)
 
 ## Some real-world screenshots:
 A Light and Dark example made with the [Swiss Army Knife custom card][sak-docs-url].
 
 Note that the card background in the light theme is white instead of the lightest theme background. Will be corrected...
 
-![m3-07-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-light%20Detail.png)
+![m3-c11-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-light%20Detail.png)
 
-![m3-07-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-dark%20Detail.png)
+![m3-c11-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-dark%20Detail.png)
 
 <!-- Badges -->
 
@@ -67,5 +70,5 @@ Note that the card background in the light theme is white instead of the lightes
 [home-assistant]: https://www.home-assistant.io/
 [home-assitant-theme-docs]: https://www.home-assistant.io/integrations/frontend/#defining-themes
 [hacs]: https://hacs.xyz
-[release-url]: https://github.com/AmoebeLabs/HA-Theme_M3-Template/releases
+[release-url]: https://github.com/AmoebeLabs/HA-Theme_M3-C11-Purple/releases
 [sak-docs-url]: https://swiss-army-knife.docs.amoebelabs.com
