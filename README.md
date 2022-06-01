@@ -3,7 +3,7 @@
 [![release][release-badge]][release-url]
 ![downloads][downloads-badge]
 
-# Material 3 Theme for Home Asistant: C11, Purple
+# Material 3 Theme for Home Asistant: #C11, Purple
 
 ## What is it
 A Material 3 based extended Dark & Light theme for Home Assistant.
