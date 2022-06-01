@@ -54,9 +54,9 @@ A Light and Dark example made with the [Swiss Army Knife custom card][sak-docs-u
 
 Note that the card background in the light theme is white instead of the lightest theme background. Will be corrected...
 
-![m3-c11-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-light%20Detail.png)
+![m3-c11-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-c11-purple/blob/master/screenshots/m3-example-c11-light.png)
 
-![m3-c11-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-07-darkolivegreen/blob/master/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-07-dark%20Detail.png)
+![m3-c11-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-c11-purple/blob/master/screenshots/m3-example-c11-dark.png)
 
 <!-- Badges -->
 
